@@ -1,4 +1,18 @@
 {
+  "heroCategories": [
+    {
+      "id": 1,
+      "title": "Clothing & Shoes"
+    },
+    {
+      "id": 2,
+      "title": "Home & Living"
+    },
+    {
+      "id": 3,
+      "title": "Art & Collectibles"
+    }
+  ],
   "heroProduct": [
     {
       "id": 1,
