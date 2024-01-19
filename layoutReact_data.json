@@ -13,7 +13,7 @@
       "title": "Art & Collectibles"
     }
   ],
-  "heroProduct": [
+  "heroProducts": [
     {
       "id": 1,
       "colors": ["#7CB93E", "#33ABC6", "#1CCD8D", "#3F65EA", "#F64A69", "#A635EC", "#F9A85D"],
